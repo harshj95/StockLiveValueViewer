@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Upstox</string>
+    <string name="sell">SELL</string>
+    <string name="buy">BUY</string>
+    <string name="companyName">CAKE</string>
+
+    <string name="daily">1D</string>
+    <string name="monthly">1M</string>
+    <string name="quarterly">3M</string>
+    <string name="yearToDate">YTD</string>
+    <string name="yearly">1Y</string>
+    <string name="all">ALL</string>
+
+    <string name="dayHigh">Day High</string>
+    <string name="open">Open</string>
+    <string name="avg">Avg. Volume</string>
+    <string name="high">52wk High</string>
+    <string name="dayLow">Day Low</string>
+    <string name="close">Today\'s Close</string>
+    <string name="volume">Volume</string>
+    <string name="low">52wk Low</string>
+    
+</resources>
