@@ -6,5 +6,5 @@ package com.application.upstox.util;
 
 public class Constants {
 
-    public static final String URL = "http://kaboom.rksv.net";
+    public static final String URL = "###################"; //Hidden
 }
